@@ -1,9 +1,8 @@
 # Student-Management-System
   
- 1) First of all to use this project you need to download the project.zip file.
- 2) After downloading the zip file, extract the zip file.
- 3) Copy the extracted folder to the Xampp -> opt -> htdocs folder.
- 4) Now, start your xampp server and open localhost/phpmyadmin.
- 5) Create a new database with name ‘sms’.
- 6) Go on the created database and click on import option and import the sql file.
- 7 )Now go to localhost/project/login.php
+ 1) Download all the files with database.
+ 2) Copy all the downloaded files to the Xampp/opt/htdocs folder.
+ 3) Now, Start your xampp server and open localhost/phpmyadmin.
+ 4) Create a new database with name ‘sms’.
+ 5) Go on the created database and click on import option and import the database file.
+ 6) Now go to localhost/project/login.php.
